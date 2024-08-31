@@ -1,0 +1,14 @@
+---
+title: "Ultrastructural and molecular characterisation of an <i>Heterosporis</i>-like microsporidian in Australian sea snakes (Hydrophiinae)"
+collection: publications
+pubtype: 'peer'
+permalink: /publication/2016-seasnakes
+excerpt: 'Molecular, morphological and pathologial characteristics of microsporidian parasites infecting sea snakes are described in detail.'
+date: March 2016
+venue: 'PLoS One'
+---
+Four sea snakes (two <i>Hydrophis major</i>, one <i>Hydrophis platurus</i>, one <i>Hydrophis elegans</i>) were found washed ashore on different beaches in the Sunshine Coast region and Fraser Island in Queensland, Australia between 2007–2013. Each snake had multiple granulomas and locally extensive regions of pallor evident in the hypaxial and intercostal musculature along the body. Lesions in two individuals were also associated with vertebral and rib fractures. Histological examination revealed granulomas scattered throughout skeletal muscle, subcutaneous adipose tissue and fractured bone. These were composed of dense aggregates of microsporidian spores surrounded by a mantle of macrophages. Sequences (ssrRNA) were obtained from lesions in three sea snakes and all revealed 99% similarity with <i>Heterosporis anguillarum</i> from the Japanese eel (<i>Anguillarum japonica</i>). However, ultrastructural characteristics of the organism were not consistent with those of previous descriptions. Electron microscopic examination of skeletal muscle revealed large cysts (not xenomas) bound by walls of fibrillar material (<i>Heterosporis</i>-like sporophorocyst walls were not detected). The cysts contained numerous mature microsporidian spores arranged in small clusters, sometimes apparently within sporophorous vesicles. The microspores were monomorphic, oval and measured 2.5–3.0 μm by 1.6–1.8 μm. They contained isofilar polar filaments with 11 (infrequently 9–12) coils arranged in two ranks. This is the first published report of a microsporidian infection in hydrophiid sea snakes. This discovery shows microsporidia with molecular affinities to <i>Heterosporis anguillarum</i> but ultrastructural characters most consistent with the genus <i>Pleistophora</i> (but no hitherto described species). Further studies are required to determine whether the microsporidian presented here belongs to the genus <i>Heterosporis</i>, or to a polymorphic species group as suggested by the recognition of a robust <i>Pleistophora/Heterosporis</i> clade by molecular studies. The gross and histological pathology associated with these infections are described.
+
+[Download paper here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150724)
+
+Recommended citation: Gillett AK, Ploeg R, O’Donoghue PJ, Chapman PA, Webb RI, et al. (2016) Ultrastructural and molecular characterisation of an <i>Heterosporis</i>-like microsporidian in Australian sea snakes (Hydrophiinae). PLoS One 11(3): e0150724. https://doi.org/10.1371/journal.pone.0150724
