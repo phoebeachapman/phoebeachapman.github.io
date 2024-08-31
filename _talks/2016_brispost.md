@@ -8,7 +8,7 @@ venue: "19th International Congress for Tropical Medicine and Malaria (incorpora
 date: October 2016
 location: "Brisbane, Australia"
 ---
-![Slide1](https://github.com/user-attachments/assets/1a0aa126-09ac-4929-80c5-6cc1d9327cea)
+![Slide1](https://github.com/user-attachments/assets/0e8a0e7a-adc2-458d-86e5-59e9988d4b50)
 
 Spirorchiid blood flukes are globally important parasites of sea turtles, playing a role in strandings and mortalities. Mixed infections are common and ova are found in most host tissues, causing inflammatory responses ranging from mild to severe. However, ova cannot be morphologically identified to species level, making detection of epidemiological and pathological trends difficult. 
 
