@@ -4,33 +4,29 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Click on a publication title for the full abstract and a link to the publication. If you would like a full text pdf of any article, please contact me - I will be happy to send!
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+You can also find a list of my articles, including citation metrics, on <a href="https://scholar.google.nl/citations?user=H3vVyNkAAAAJ&hl=en">my Google Scholar profile</a>.
+
+<h2>Peer-reviewed publications</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'peer' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Other Publications</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'other' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
 
 
 
