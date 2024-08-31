@@ -48,17 +48,17 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "@phoebechapman.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "@phoebechapman" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "@awetsawdustdemon"
+  instagram        : "awetsawdustdemon"
   lastfm           : # Username
-  linkedin         : "@phoebeachapman"
-  mastodon         : "@phoebeachapman@mstdn.science"
+  linkedin         : "phoebeachapman"
+  mastodon         : "phoebeachapman@mstdn.science"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
