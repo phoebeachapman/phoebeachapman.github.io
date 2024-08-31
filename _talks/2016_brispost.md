@@ -18,4 +18,4 @@ Results: The T-RFLP assay detected spirorchiids in 146/151 tissue samples. It ch
 
 Conclusion: This T-RFLP method was sensitive, specific and efficient in identifying spirorchiid ova in turtle tissues, outperforming traditional methods. This is the first use of T-RFLP in tissues or animals, and has potential to be adapted to address a range of questions regarding parasites of other hosts.  
 
-[Download full size pdf of poster here](https://github.com/pchapawsdd/pchapawsdd.github.io/blob/master/files/TRFLP%20ITCMM%20v2.pdf)
+[Download full size pdf of poster here](https://github.com/phoebeachapman/phoebeachapman.github.io/blob/master/files/TRFLP%20ITCMM%20v2.pdf)
