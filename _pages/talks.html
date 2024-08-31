@@ -4,19 +4,21 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-Conference presentations
+<h>Conference presentations</h>
 {% for post in site.talks reversed %} 
 {% if post.pubtype == 'talk' %} 
 {% include archive-single.html %} 
 {% endif %} 
 {% endfor %}
-Conference posters
+
+<h2>Conference posters</h2>
 {% for post in site.talks reversed %} 
 {% if post.pubtype == 'poster' %} 
 {% include archive-single.html %} 
 {% endif %} 
 {% endfor %}
-Other presentations
+
+<h2>Other presentations</h2>
 {% for post in site.talks reversed %} 
 {% if post.pubtype == 'other' %} 
 {% include archive-single.html %} 
