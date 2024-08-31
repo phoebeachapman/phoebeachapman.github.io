@@ -7,7 +7,7 @@ venue: "University of Queensland, BSc"
 date: 2004-10-01
 location: "Brisbane, Australia"
 ---
-![UQ](https://github.com/user-attachments/assets/711a530a-ea32-4121-813d-670a0e82fea8)
+![UQ](https://github.com/user-attachments/assets/f1458a37-cda4-4b67-bf1c-cee85fb90ce9)
 
 The University of Queensland consistently ranks among Australia's top universities and is ranked within the world's top 40 based on the QS World University Rankings 2025.
 
