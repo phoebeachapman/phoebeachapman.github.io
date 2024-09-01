@@ -5,21 +5,19 @@ collection: portfolio
 layout: page
 description: "masonry"
 active: gallery
-header-img: "img/gallery-bg.jpg"
+header-img: "/gallery/archive/g01/tern1_little.jpg"
 album-title: "Birds of New Zealand"
+album-folder: "/gallery/archive/g01/"
+copyright: © Phoebe Chapman 
 images:
- - image_path: /gallery/archive/g01/tern1.jpg
+ - image_name: tern1.jpg
    caption: White-fronted tern / Tara (<i>Sterna striata</i>) with catch of the day at Aramoana
-   copyright: © Phoebe Chapman
- - image_path: /gallery/archive/g01/titipounamu.jpg
+ - image_name: titipounamu.jpg
    caption: Rifleman / Tītitipounamu (<i>Acanthisitta chloris</i> at Fiordland National Park
-   copyright: © Phoebe Chapman
-- image_path: /gallery/archive/g01/tui.jpg
+- image_name: tui.jpg
    caption: Tūī (<i>Prosthemadera novaeseelandiae</i> at Orokonui Ecosanctuary
-   copyright: © Phoebe Chapman
-- image_path: /gallery/archive/g01/takahe1.jpg
+- image_name: takahe1.jpg
    caption: Takahē (<i>Porphyrio hochstetteri</i>) at Orokonui Ecosanctuary   
-   copyright: © Phoebe Chapman
 
 ---
 
@@ -44,8 +42,8 @@ images:
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup"  title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
+<a href="{{ site.store_url }}{{ site.store_baseurl }}/{{ page.album-folder }}/{{ image.image_name }}-web.jpg" class="popup"  title="{{ image.caption }}" data-caption="{{ page.copyright }}">
+<img src="{{ site.store_url }}{{ site.store_baseurl }}/{{ page.album-folder }}/{{ image.image_name }}-thumb.jpg"></a>
 						
 					</header>	
 					<figcaption class='gallery-caption'>
