@@ -6,7 +6,7 @@ type: "Competition"
 permalink: /talks/3minthesis
 venue: "Three Minute Thesis postgraduate research speaking competition - School of Veterinary Science, University of Queensland"
 date: July 2015
-location: "Gatton, Australia"
+location: "Gatton, Australia <b>** People's Choice Award **</b>"
 ---
 ![Slide1 2](https://github.com/user-attachments/assets/dc16a8c1-3197-4f58-b922-0ab4f88e22d2)
 
