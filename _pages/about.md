@@ -22,4 +22,4 @@ On the weekends and holidays, I can usually be found outside. My wife and I are 
 
 I enjoy various forms of art and crafts, and when opportunities present I dabble in wildlife/outdoor photography. Check out a few of my better attempts in the photography section of this site!
 
-Please don't hesitate to drop me a line via one of the avenues on the 'Contact' page if you'd like to get in touch.
+Please don't hesitate to drop me a line via one of the avenues on the left of this page (or on the 'Follow' button next to my name above if viewing on mobile) if you'd like to get in touch.
