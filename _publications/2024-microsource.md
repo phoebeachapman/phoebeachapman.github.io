@@ -1,9 +1,9 @@
 ---
-title: "The role of family and environment in determining the skin microbiome of captive aquatic frogs, <i>Xenopus laevis</i>"
+title: "The role of family and environment in determining the skin bacterial communities of captive aquatic frogs, <i>Xenopus laevis</i>"
 collection: publications
 pubtype: 'peer'
 permalink: /publication/2024-microsource
-excerpt: 'Antibiotics are routinely used in <i>Xenopus</i> husbandry, yet bacteria play an important role in tissue regeneration. The first in-depth microbiome source and inheritance analysis for captive and non-antibiotic-treated <i>Xenopus laevis</i> suggests that vertical transmission plays an important role in establishing tadpole skin microbiomes, and should be considered in the context of colony husbandry and experimental regeneration studies.'
+excerpt: 'Antibiotics are routinely used in <i>Xenopus</i> husbandry, yet bacteria play an important role in tissue regeneration. The first in-depth bacterial microbiome source and inheritance analysis for captive and non-antibiotic-treated <i>Xenopus laevis</i> suggests that vertical transmission plays an important role in establishing tadpole skin microbiomes, and should be considered in the context of colony husbandry and experimental regeneration studies.'
 date: October 2024
 venue: 'FEMS Microbiology Ecology'
 ---
@@ -11,4 +11,4 @@ Skin microbes play an important role in amphibian tissue regeneration. <i>Xenopu
 
 [Download paper here](https://academic.oup.com/femsec/article/100/11/fiae131/7774408)
 
-Recommended citation: Chapman PA, Hudson DT, Morgan XC, Beck CW (2024) The role of family and environment in determining the skin microbiome of captive aquatic frogs, <i>Xenopus laevis</i>. FEMS Microbiology Ecology, 100(11), fiae131 https://doi.org/10.1093/femsec/fiae131
+Recommended citation: Chapman PA, Hudson DT, Morgan XC, Beck CW (2024) The role of family and environment in determining the skin microbial communities of captive aquatic frogs, <i>Xenopus laevis</i>. FEMS Microbiology Ecology, 100(11), fiae131 https://doi.org/10.1093/femsec/fiae131
