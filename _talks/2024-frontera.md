@@ -8,5 +8,4 @@ venue: "Universidad de La Frontera"
 date: October 2024
 location: "Temuco – Chile (via Zoom)"
 ---
-![Slide3](https://github.com/user-attachments/files/17605551/Frontera_frogs-fronds-firmicutes.pdf)
-
+![Frontera_frogs-fronds-firmicutes](https://github.com/user-attachments/assets/05065334-1f8a-42ec-b2c8-e17e1570bb89)
