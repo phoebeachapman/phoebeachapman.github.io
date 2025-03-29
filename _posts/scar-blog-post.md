@@ -1,0 +1,16 @@
+---
+title: 'SCAR Conferenece 2025 - Pucón, Chile'
+date: 2024-08-30
+permalink: /posts/2024/08/chile/
+tags:
+---
+XI Scientific Committee on Antarctic Research (SCAR) Open Science Conference 2024 
+“Antarctic Science: Crossroads for a New Hope”
+------
+I was lucky enough, along with two other members of the Fraser lab, to have the opportunity to attend the XI SCAR Open Science Conference 2024, held in the town of Pucón, Chile. Pucón was a great place to visit - friendly locals, small enough to walk most places, and a view of the imposing Villarica volcano wherever you go.
+
+I presented a talk in the "Microbial Biogeography of Antarctica and Southern Ocean" session entitled "Investigating the dynamics of kelp-associated bacterial microbiomes in Antarctic and sub-Antarctic environments". You can see more details about this on the ['Talks' page!](https://phoebeachapman.github.io/talks/) It was an amazing experience to be able to absorb so much interesting research from one of the most fascinating regions on earth and to mingle with some of the visionaries behind it all. 
+
+Outside the conference, myself and lab colleague Pluto had a great day climbing the volcano with some of our South African associates, as well as exploring the town.
+
+![smiley](../images/smiley.png) ![smiley](../images/smiley.png) ![smiley](../images/smiley.png)
