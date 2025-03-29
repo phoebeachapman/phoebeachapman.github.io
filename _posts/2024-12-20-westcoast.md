@@ -1,6 +1,6 @@
 ---
 title: 'West Coast Kelp Adventures'
-date: 2013-08-14
+date: 2024-12-20
 permalink: /posts/2024/12/20/westcoast/
 ---
 <b> Inspecting bull kelp / rimurapa (<i>Durvillaea antarctica, Durvillaea willana</i>) on the West Coast amid concerns about marine heatwave related die offs </b>
