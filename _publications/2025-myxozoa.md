@@ -11,4 +11,4 @@ This case series provides the first published record of a myxozoan parasite in M
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S2213224425000264)
 
 Recommended citation: Low Z, Greay TL, Abdullah S, Chapman PA, Viviana Gonzalez-Astudillo V (2025). Renal myxosporidiosis by an unknown Bivalvulidan myxozoan parasite in Murray River turtles (<i>Emydura macquarii</i>) in Australia. 
-International Journal for Parasitology: Parasites and Wildlife 101061, https://doi.org/10.1016/j.ijppaw.2025.101061.
+International Journal for Parasitology: Parasites and Wildlife 27: 101061, https://doi.org/10.1016/j.ijppaw.2025.101061.
