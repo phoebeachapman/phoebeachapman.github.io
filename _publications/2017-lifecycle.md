@@ -3,7 +3,7 @@ title: "Elucidation of the first definitively identified life cycle for a marine
 collection: publications
 pubtype: 'peer'
 permalink: /publication/2017-lifecycle
-excerpt: 'The life cycle of a marine spirorchiid blood fluke, a significant parasite of endangered sea turtles, is uncovered for the first time, leading to opportunities for improved control and elucidation of life cycles for further spirorchiid species. Featuring my design on the issue cover! ![image](https://github.com/user-attachments/assets/ee25994d-164c-43f3-a6c5-5a28b2fd58e4)'
+excerpt: 'The life cycle of a marine spirorchiid blood fluke, a significant parasite of endangered sea turtles, is uncovered for the first time, leading to opportunities for improved control and elucidation of life cycles for further spirorchiid species. Featuring my design on the issue cover!<br> ![image](https://github.com/user-attachments/assets/ee25994d-164c-43f3-a6c5-5a28b2fd58e4)'
 
 date: January 2017
 venue: 'International Journal for Parasitology'
