@@ -9,4 +9,4 @@ date: November 2024
 location: "Dundin, New Zealand"
 ---
 ![Frontera_frogs-fronds-firmicutes](https://github.com/user-attachments/assets/05065334-1f8a-42ec-b2c8-e17e1570bb89)
-<img width="300" alt="Screenshot 2025-06-22 at 4 17 50 PM" src="https://github.com/user-attachments/assets/7822868d-891b-4f0e-a95d-6552682daac6" />
+<img width="330" alt="Screenshot 2025-06-22 at 4 17 50 PM" src="https://github.com/user-attachments/assets/7822868d-891b-4f0e-a95d-6552682daac6" />
