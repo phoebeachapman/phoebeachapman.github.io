@@ -8,6 +8,13 @@ Click on a publication title for the full abstract and a link to the publication
 
 You can also find a list of my articles, including citation metrics, on <a href="https://scholar.google.nl/citations?user=H3vVyNkAAAAJ&hl=en">my Google Scholar profile</a>.
 
+<h2>Pre-prints</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'preprint' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 <h2>Peer-reviewed publications</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'peer' %}
