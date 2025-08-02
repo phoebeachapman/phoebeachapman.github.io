@@ -1,5 +1,5 @@
 ---
-title: 'Marine Science Departmental Seminar - 'Kelp in Command''
+title: 'Marine Science Departmental Seminar - Kelp in Command'
 date: 2025-07-31
 permalink: /posts/2025/07/31/Marineseminar/
 ---
@@ -10,5 +10,5 @@ I spoke about my trip with the Sir Peter Blake Trust, the Royal New Zealand Navy
 This was the first since our recent move to the Geology building on campus - the use of the common room instead of a formal seminar room made for a nice relaxed atmosphere. It was also great to see several familiar faces from the trip in attendance as well as family and friends on Zoom!
 
 <figure>
-	<img src="/images/MarineSeminarPhoebeChapman.jpg">
+	<img src="/images/MarineScienceSeminarPhoebeChapman.jpg">
 </figure>
