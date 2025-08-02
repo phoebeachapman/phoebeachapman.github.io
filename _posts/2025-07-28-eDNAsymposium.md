@@ -5,7 +5,7 @@ permalink: /posts/2025/07/28/eDNAsymposium/
 ---
 <b>On July 28th, the Genetics Otago eDNA Hub hosted our first mini-symposium and careers panel — an afternoon of engaging, informal presentations, discussion, and connection. </b>
 
-The event featured eight Otago-based researchers sharing short, relaxed presentations on their current projects, with no pressure to produce polished slides. This created a welcoming environment for sharing ideas, offering feedback, and sparking discussion. Food and refreshments were generously sponsored by Wilderlab.
+The event featured Otago-based researchers sharing short, relaxed presentations on their current projects, with no pressure to produce polished slides. This created a welcoming environment for sharing ideas, offering feedback, and sparking discussion. Food and refreshments were generously sponsored by Wilderlab.
 
 We wrapped up with an enagaging careers panel, featuring scientists working with eDNA across local and central government, as well as in the private sector. This was especially valuable for students, offering insight into real-world career pathways and applications of eDNA science beyond academia.
 
