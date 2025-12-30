@@ -1,0 +1,16 @@
+---
+title: 'Penguins and Parasites'
+date: 2025-12-10
+permalink: /posts/2025/12/10/Penguinparasites/
+---
+The second half of 2025 has seen us launch field work and sample collection for a project I'm leading in the diagnostics realm - the development of a more accurate method of detecting and quantifying ectoparasite loads in wildlife. As it stands, surveying ectoparasites involves lengthy handling sessions, and results are often inaccurate due to dense feathers, small and cryptic parasites, and wriggly hosts! A blood-based method would allow detection in conjunction with existing sampling and health monitoring programs and is potentially much more senstive and accurate.
+
+The project has so far involved collecting blood and parasite samples from little penguins (kororā) at colonies in Ōamaru (Otago - Ōmaru Penguin Colony) and Flea Bay (Canterbury/Banks Peninsula - Pōhatu Penguins). The samples are currently undergoing deep next-generation sequencing and are showing some interesting results!
+
+We look forward to continuing the develop this project and the collaborations with penguin biologists around the country, and potentially expanding into other penguin, bird and mammal species.
+
+Many thanks to Rachel Hickcox (Pōhatu Penguins), Michelle la Rue and Sarah Flanagan (University of Canterbury), and Henry Elsom and Pip Agnew (Ōamaru Penguin Colony) for the interest and assistance with the project so far!
+
+<figure>
+	<img src="/images/pohatu_group.jpg">
+</figure>
