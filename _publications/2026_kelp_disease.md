@@ -11,7 +11,7 @@ The effects of climate change and human pollution on ecosystems worldwide are be
 
 ![dekleingraphab](../images/dekleingraphab.jpg)
 
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S0025326X26000743)
-Or please contact me for a PDF.
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0025326X26000743) <br>
+or please contact me for a PDF.
 
 Recommended citation: de Klein S, Chapman PA, Fraser CI. nvironmental and anthropogenic stressors may influence the prevalence of disease-like phenotypes in an intertidal kelp. Marine Pollution Bulletin 225, 2026. https://doi.org/10.1016/j.marpolbul.2026.119287
