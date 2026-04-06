@@ -14,5 +14,5 @@ My photo was taken last year at Enderby Island - part of the Auckland Islands gr
 Thanks to all who support the Tūhura Photography Competition. The exhibition (free entry) runs at Tūhura / the Otago Museum until July 19th - drop in and have a look at some sensational shots. 
 
 <figure>
-	<img src="/images/tuhuraphoto.jpeg" style="width: 60%; height: auto;>
+	<img src="/images/tuhuraphoto.jpeg" style="width: 60%; height: auto;">
 </figure>
