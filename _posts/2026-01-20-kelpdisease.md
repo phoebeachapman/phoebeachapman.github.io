@@ -1,7 +1,7 @@
 ---
 title: 'New Kelp Disease Publication'
 date: 2026-01-20
-permalink: /posts/2026/02/20/NewKelpDiseasePaper/
+permalink: /posts/2026/01/20/NewKelpDiseasePaper/
 ---
 <b>New Paper Alert - Environmental and anthropogenic factors associated with potential kelp disease phenotypes</b>
 
