@@ -13,7 +13,7 @@ This data was then modelled against various environmental (e.g. latitude, river 
 
 Fun times were had in some beautiful locations and some excellent insights into kelp disease which provide a solid base on which to build further research.
 
-See the details here [My Publication](/publication/2026-kelp-diseases)
+See the details [here](/publication/2026-kelp-diseases)
 
 <figure>
 	<img src="/images/sabinemed.jpeg">
