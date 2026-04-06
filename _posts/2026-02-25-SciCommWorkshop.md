@@ -1,5 +1,5 @@
 ---
-title: 'eDNA Hub runs successful SciComm Workshop at Genetics Otago Symposium 2026'
+title: 'eDNA Hub SciComm Workshop'
 date: 2026-02-25
 permalink: /posts/2026/02/25/SciCommWorkshop/
 ---
